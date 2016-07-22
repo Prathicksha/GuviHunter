@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sum {
+public class ArraySum {
 	public static void check(int[] duparr)
 	{
 		int flag=0;
